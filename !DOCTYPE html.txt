@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Surrey Cricket Scholar Logo</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+
+  .logo {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .logo h1 {
+    font-size: 36px;
+    color: #006400; /* Surrey Cricket team's color */
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+  }
+
+  .logo h2 {
+    font-size: 24px;
+    color: #006400; /* Surrey Cricket team's color */
+    margin-top: 0;
+  }
+</style>
+</head>
+<body>
+  <div class="logo">
+    <h1>Surrey Cricket</h1>
+    <h2>Scholar</h2>
+  </div>
+</body>
+</html>
